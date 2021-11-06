@@ -1,0 +1,21 @@
+header {
+    margin: 0 auto;
+}
+.f-article {
+    text-align: left;
+}
+.s-article {
+    text-align: right;
+}
+.t-article {
+    text-align: left;
+}
+.fo-article {
+    text-align: right;
+}
+article p {
+    display: inline-block;
+}
+footer {
+    text-align: center;
+}
